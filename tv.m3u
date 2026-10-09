@@ -44,6 +44,8 @@ https://drk6xq0vhn.gpcdn.net/live/pogo_sd_abr/index.m3u8
 https://raw.githubusercontent.com/ahan443/ahan-live/refs/heads/main/promo/index.m3u8
 
 
+#EXTINF:-1 tvg-id="144" tvg-name="Colors HD" tvg-type="Entertainment" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢 Entertainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
+https://sports247.eu.org/api/app/live.php?id=144&e=.m3u8
 #EXTINF:-1 tvg-id="Colors.in@HD" tvg-logo="https://i.imgur.com/M8uCJ0D.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢",Colors HD (1080p)
 http://66.102.126.10:8000/play/a00a/index.m3u8
 #EXTINF:-1 tvg-id="ColorsRishteyAmericas.in@SD" tvg-logo="https://i.imgur.com/xkOunuW.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢",Colors Rishtey Americas (396p)
